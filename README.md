@@ -14,5 +14,12 @@
 ### 사용 부품(간략)
 > 포토센서, 서보모터, 초음파센서, 블루투스 모듈, 실시간 시계모듈, lcd
 
+### 모델링
+-![KakaoTalk_20200406_210612179](https://user-images.githubusercontent.com/80910859/148006253-de75a757-81a9-41f3-a269-21bad4203909.jpg)
+-![KakaoTalk_20200406_211847112](https://user-images.githubusercontent.com/80910859/148006267-115963a9-f20d-45b9-a216-d4ebf70edf56.jpg)
+-![KakaoTalk_20200406_211848414](https://user-images.githubusercontent.com/80910859/148006274-0ea0eaeb-1897-49ff-9f8b-62b43162718f.jpg)
+
+
+
 ### 영상
 - [유튜브 링크](https://youtu.be/0zPFTh6iZ-U)
